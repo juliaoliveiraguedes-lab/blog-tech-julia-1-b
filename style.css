@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(202, 54, 231);
+    font-family: fantasy;
+}
+header{
+background-color: cornsilk;
+text-align: center;
+padding: 16px;
+margin: 0 auto;
+}
+section{
+    background-color: aqua;
+    padding: 16px;
+    border-radius: 10px;
+}
